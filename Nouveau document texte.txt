@@ -1,0 +1,52 @@
+<h1 style="color: #ffffff; background: #000000; padding: 20px; margin:25px">UN TITRE</h1>
+    <p style="font-size: 25px; font-weight: bold; text-transform:capitalize">
+        ceci est un texte. <br>
+        Retour à l aligne
+    </p>
+Zangui Nimondo20:06
+<!-- ceci est un commentaire -->
+/* commentaire css */
+Zangui Nimondo20:08
+<style>
+        h1 {
+            color: #ffffff;
+            background: #000000;
+            padding: 20px;
+            margin: 25px
+        }
+
+        p {
+            font-size: 25px;
+            font-weight: bold;
+            text-transform: capitalize
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+    </style>
+Zangui Nimondo20:22
+h1 {
+    color: #ffffff;
+    background: #000000;
+    padding: 20px;
+    margin: 25px
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.customizep {
+    color: aqua;
+    font-style: italic;
+}
+<link rel="stylesheet" href="/style.css">

@@ -1,0 +1,39 @@
+
+   
+  
+* 
+ {
+    font-family: "Raleway", sans-serif;
+};
+
+
+.toff
+{
+    border-radius: 50%;
+}
+H1 
+{
+   background-color: bisque; 
+}
+.tab
+{
+    display: flex;
+    flex-direction: row;
+    
+}
+.cert
+{
+    gap: 10px;
+   
+}
+.inst
+{
+    gap: 10px;
+    
+}
+
+.an
+{
+    gap: 10px;
+   
+}
